@@ -16,7 +16,7 @@
   },
   "homepage": "https://mjml.io",
   "dependencies": {
-    "mjml-button": "^2.0.10",
+    "mjml-button": "https://github.com/Uelb/mjml-button",
     "mjml-cli": "^2.3.2",
     "mjml-column": "^2.0.10",
     "mjml-container": "^2.0.10",
